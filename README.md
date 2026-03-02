@@ -12,4 +12,4 @@ Run the main file to start the game.
 ## Author
 JEETENDRA
 
-![Snake Game](screenshot.png)
+[Snake-Game](screenshot.png)
